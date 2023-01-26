@@ -8,4 +8,4 @@ This data was downloaded from the [UK Census 2021](https://www.ons.gov.uk/releas
     - Number of bedrooms (counts for each of the 5 categories)
     - Number of rooms (counts for each of the 9 categories)
     
-This data was then combined into a single wide table (one row per OA) and joined to OA 2021 geographic data for London.
+This data was then combined into a single wide table (one row per OA).
